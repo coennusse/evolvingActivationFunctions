@@ -1,0 +1,9 @@
+jax
+jaxlib
+evosax
+wandb
+pyyaml
+plotly
+distrax
+gymnax
+brax
