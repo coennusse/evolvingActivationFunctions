@@ -43,10 +43,15 @@ python run_evolved_model.py --model models/best_model.pkl
 If you use this project in your research, please cite the following paper:
 
 ```bash
-@inproceedings{Nussekooiactivations,
-  title={Learning Nonlinear Activation Functions in RL Through Evolutionary Computation},
-  author={Coen, Nusse and Kooi, Jacob E.},
-  booktitle={Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems Companion},
-  year={2025}
-}
+@INPROCEEDINGS{11030986,
+  author={Nusse, Coen and Kooi, Jacob E.},
+  booktitle={2025 IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems Companion (ALIFE-CIS Companion)}, 
+  title={Learning Nonlinear Activation Functions in RL Through Evolutionary Computation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Adaptation models;Heuristic algorithms;Computational modeling;Reinforcement learning;Evolutionary computation;Learning (artificial intelligence);Complexity theory;Intelligent systems;Optimization;Faces;reinforcement learning},
+  doi={10.1109/ALIFE-CISCompanion65078.2025.11030986}}
 ```
+
